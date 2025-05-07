@@ -1,0 +1,5 @@
+/home/onji/Documents/git/github/c-Ultima/build/CMakeFiles/main.dir
+/home/onji/Documents/git/github/c-Ultima/build/CMakeFiles/test_allagan.dir
+/home/onji/Documents/git/github/c-Ultima/build/CMakeFiles/test.dir
+/home/onji/Documents/git/github/c-Ultima/build/CMakeFiles/edit_cache.dir
+/home/onji/Documents/git/github/c-Ultima/build/CMakeFiles/rebuild_cache.dir

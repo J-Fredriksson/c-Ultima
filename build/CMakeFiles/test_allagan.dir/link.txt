@@ -1,0 +1,1 @@
+/usr/bin/cc -Wall -Wextra CMakeFiles/test_allagan.dir/test/test_allagan.c.o CMakeFiles/test_allagan.dir/src/allagan.c.o -o test_allagan
