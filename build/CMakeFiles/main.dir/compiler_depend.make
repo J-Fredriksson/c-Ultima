@@ -28,6 +28,7 @@ CMakeFiles/main.dir/src/allagan.c.o: /home/onji/Documents/git/github/c-Ultima/sr
 
 CMakeFiles/main.dir/src/main.c.o: /home/onji/Documents/git/github/c-Ultima/src/main.c \
   /home/onji/Documents/git/github/c-Ultima/src/allagan.h \
+  /home/onji/Documents/git/github/c-Ultima/src/custom_types.h \
   /usr/include/bits/floatn-common.h \
   /usr/include/bits/floatn.h \
   /usr/include/bits/libc-header-start.h \
@@ -73,8 +74,6 @@ CMakeFiles/main.dir/src/main.c.o: /home/onji/Documents/git/github/c-Ultima/src/m
 /home/onji/Documents/git/github/c-Ultima/src/allagan.h:
 
 /usr/include/bits/libc-header-start.h:
-
-/usr/include/bits/time64.h:
 
 /usr/include/bits/fp-fast.h:
 
@@ -126,6 +125,10 @@ CMakeFiles/main.dir/src/main.c.o: /home/onji/Documents/git/github/c-Ultima/src/m
 
 /usr/include/sys/cdefs.h:
 
-/usr/include/bits/types/FILE.h:
+/usr/include/bits/time64.h:
+
+/home/onji/Documents/git/github/c-Ultima/src/custom_types.h:
 
 /usr/include/bits/types/__FILE.h:
+
+/usr/include/bits/types/FILE.h:
