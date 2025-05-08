@@ -6,5 +6,5 @@ C_DEFINES =
 
 C_INCLUDES = -I/home/onji/Documents/git/github/c-Ultima/src
 
-C_FLAGS = -Wall -Wextra
+C_FLAGS = -Wall -Wextra -lm
 

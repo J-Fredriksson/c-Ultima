@@ -11,7 +11,7 @@ enable_testing()
 include_directories(src)
 
 # Set C flags (optional)
-set(CMAKE_C_FLAGS "-Wall -Wextra")
+set(CMAKE_C_FLAGS "-Wall -Wextra -lm")
 
 # Specify the directories containing the source files
 include_directories(src)
