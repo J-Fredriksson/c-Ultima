@@ -5,7 +5,7 @@ typedef struct weapon {
 	float auto_attack;
 	float delay;
 	int strength;
-	int decterity;
+	int dexterity;
 	int intelligence;
 	int mind;
 	int critical_hit;
@@ -21,7 +21,7 @@ typedef struct armour {
 	char name[50];
 	int item_level;
 	int strength;
-	int decterity;
+	int dexterity;
 	int intelligence;
 	int mind;
 	int critical_hit;
